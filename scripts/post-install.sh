@@ -8,10 +8,17 @@
 #  done
 #fi
 
+<<<<<<< HEAD
 #yum install -y nodejs npm
 #cd /etc/battlebot/urpg-battle-bot-calc
 #npm install
 #npm run build
+=======
+yum install -y nodejs npm
+cd /etc/battlebot/urpg-battle-bot-calc
+npm install
+npm run build
+>>>>>>> dfe05260615b3e32d18223c8570261532fdd84cb
 
 #cd /home/ec2-user/urpg-battle-bot
 #npm install
